@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = IdentityServerAspNetIdentity
+build_property.ProjectDir = D:\Git\CSharp\Identity\quickstart\src\IdentityServerAspNetIdentity\

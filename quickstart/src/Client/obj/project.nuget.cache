@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y7jhbMKQlo3zJeylEnuADqGSLuybARH5kleBPhB5MilNaxrUGdSSmTfxI6+CWf8k05JYAdslEo9Sc9srVIkzvQ==",
+  "success": true,
+  "projectFilePath": "D:\\Git\\CSharp\\Identity\\quickstart\\src\\Client\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\identitymodel\\6.0.0\\identitymodel.6.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
